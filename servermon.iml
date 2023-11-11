@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="FacetManager">
+    <facet type="minecraft" name="Minecraft">
+      <configuration>
+        <autoDetectTypes>
+          <platformType>PAPER</platformType>
+          <platformType>ADVENTURE</platformType>
+        </autoDetectTypes>
+      </configuration>
+    </facet>
+  </component>
+  <component name="designer2.settings">
+    <option name="serverIp" value="169.254.160.255" />
+    <option name="serverPort" value="9488" />
+  </component>
+</module>

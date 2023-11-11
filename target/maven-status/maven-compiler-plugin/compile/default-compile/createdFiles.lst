@@ -1,0 +1,9 @@
+benlukka\servermon\item\sword.class
+benlukka\servermon\commands\ServmonCommand.class
+benlukka\servermon\Servermon.class
+benlukka\servermon\item\loadItems.class
+benlukka\servermon\commands\homeCommand$1.class
+benlukka\servermon\item\ItemEventhandler.class
+benlukka\servermon\Servermon$WebServer.class
+benlukka\servermon\commands\homeCommand.class
+benlukka\servermon\commands\sethomeCommand.class

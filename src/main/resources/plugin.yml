@@ -1,0 +1,21 @@
+name: servermon
+version: '${project.version}'
+main: benlukka.servermon.Servermon
+api-version: '1.20'
+commands:
+  servermon:
+    description: Your description
+    usage: /<command>
+    permission: yourplugin.yourcommandpermission
+  home:
+    description: Your description
+    usage: /<command>
+    permission: yourplugin.yourcommandpermission
+  sethome:
+    description: Your description
+    usage: /<command>
+    permission: yourplugin.yourcommandpermission
+  sword:
+    description: Your description
+    usage: /<command>
+    permission: yourplugin.yourcommandpermission
