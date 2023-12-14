@@ -48,6 +48,7 @@
                   </font></Label>
                <ImageView fx:id="onlinesvg" fitHeight="90.0" fitWidth="90.0" pickOnBounds="true" preserveRatio="true" />
                <Label text="Online">
+
                   <font>
                      <Font size="36.0" />
                   </font></Label>

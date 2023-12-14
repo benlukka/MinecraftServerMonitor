@@ -40,7 +40,7 @@ public class HelloController {
 
     public static String Playername;
     public static String UUID;
-    public void initialize() throws IOException {
+    public void initialize()  throws IOException {
         Image imagei = new javafx.scene.image.Image(Objects.requireNonNull(getClass().getResourceAsStream("cross.png")));
         offlinesvg.setImage(imagei);
         onlinesvg.setImage(new javafx.scene.image.Image(Objects.requireNonNull(getClass().getResourceAsStream("check.png"))));

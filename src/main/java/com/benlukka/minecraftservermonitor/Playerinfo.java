@@ -28,6 +28,7 @@ public class Playerinfo {
     // Constructor to accept text
  public void initialize() throws IOException{
      set();
+
  }
     public void set() throws IOException {
         System.out.println(PlayerName);
