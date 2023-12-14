@@ -76,7 +76,6 @@ public class HelloController {
     private  void handleMouseClick(MouseEvent event) {
         if (event.getButton().equals(MouseButton.PRIMARY) && event.getClickCount() == 2) {
             String selectedItem = onlinelist.getSelectionModel().getSelectedItem();
-            out.println("Double-clicked on: " + selectedItem);
                 try {
                     Playername = selectedItem;
                     FXMLLoader loader = new FXMLLoader(getClass().getResource("playerinfo.fxml"));
